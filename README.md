@@ -47,7 +47,7 @@ Alternately users can create a dedicated `conda` environment and install the req
 
 ## Data preparation
 
-We provide the clean and labelled curated data as Excel sheets titled "Data for model" which includes all the experimental data used for model training. The file itself contains 4 tabs, with each tab corresponding to the experimental data from each of the active learning cycles.
+We provide the clean and labelled curated data as Excel sheets titled "PNNL data_FinalCurated.xlsx" which includes all the input features and target variables used for model training. 
 
 ## Model training
 
