@@ -1,6 +1,6 @@
 # ML aids the discovery of catalytic descriptors 
 
-This repository contains the code for the paper titled Identifying descriptors for promoted rhodium-based catalysts for higher alcohol synthesis via machine learning
+This repository contains the code for the paper titled Identifying descriptors for promoted rhodium-based catalysts for higher alcohol synthesis via machine learning.
 
 - [Overview](#overview)
 - [System Requirements](#system-requirements)
